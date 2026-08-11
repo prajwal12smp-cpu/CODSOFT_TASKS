@@ -79,10 +79,13 @@ Spam-SMS-Detection/
 └── README.md
 ```
 
-## Screenshots
+## Demo video
 
-- `images/streamlit_home.png` (placeholder)
-- `images/model_performance.png` (placeholder)
+
+
+https://github.com/user-attachments/assets/b0322570-c250-41fb-ae50-b747b9010d0f
+
+ 
 
 ## Future Improvements
 
