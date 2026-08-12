@@ -140,6 +140,15 @@ If needed in a restricted Windows environment:
 ```powershell
 & "C:\Users\PRAJWAL\AppData\Roaming\uv\python\cpython-3.11.15-windows-x86_64-none\python.exe" -m streamlit run app.py --server.headless true
 ```
+## Demo video
+
+
+
+https://github.com/user-attachments/assets/058f06ea-d141-474b-b46c-9cdd0fbe2767
+
+
+
+
 
 ## Example Prediction
 
