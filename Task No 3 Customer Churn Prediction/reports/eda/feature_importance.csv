@@ -1,0 +1,14 @@
+Feature,Importance
+numeric__Age,0.3608631056063611
+numeric__NumOfProducts,0.24521802983065383
+numeric__Balance,0.09342906105479602
+numeric__IsActiveMember,0.06626531813160735
+categorical__Geography_Germany,0.05553745380828507
+numeric__EstimatedSalary,0.04787478548459929
+numeric__CreditScore,0.045669292083472354
+numeric__Tenure,0.0251234734617806
+categorical__Gender_Male,0.016260928709148123
+categorical__Geography_France,0.015048913779530012
+categorical__Gender_Female,0.014024217496235695
+categorical__Geography_Spain,0.008421962522622142
+numeric__HasCrCard,0.006263458030908429
