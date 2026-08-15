@@ -122,6 +122,15 @@ Customer Churn Prediction/
 │   └── train_model.py
 └── .venv/
 ```
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/17a5cd27-3a4e-43b1-a219-14cb303142c9
+
+
+
+
 
 ## Future Improvements
 - Add more advanced models such as XGBoost or LightGBM.
